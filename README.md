@@ -12,10 +12,13 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 
 # List of people who know git
 - [Reza Javadzadeh :satellite::iphone:](https://github.com/Reza-Javadzadeh)
+- [Majid Panahi :two::smiley:] [https://github.com/MajidPanahi]
 - [afsartala](https://github.com/aafsartala)
 - [Mohammad Kazemi](https://github.com/mohammadkazemy)
 - [Jadi ❤️](https://jadi.net)
+- [Daniyal:snowman:](https://github.com/Daniyalpr)
 - [Mohadese Fr 🌱](https://github.com/mohadesefr)
+- [ConfusedCharacter :relaxed:](https://github.com/ConfusedCharacter)
 - [Mohammadreza ShahriyarKeshe 🎯](https://github.com/mohammadrezashsk)
 - [AmirHosein 🌿 ](https://github.com/omidmblove80)
 - [Shahram Ardalan💻❤️](https://github.com/shahramardalan)
@@ -27,13 +30,17 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohammadreza ShahriyarKeshe***](https://github.com/mohammadrezashsk)
 - [Amin Farahbakhsh](https://github.com/farahbakhsh3)
 - [pouria](https://github.com/pouriahashtroudi)
+- [mahdimosavi](https://github.com/MahdyMusave/gittutorial.git)
 - [Pourya Kamyarfard ❤️](https://github.com/wwindux)
 - [amir rahimi :) ](https://github.com/amirrahimii)
+    - [shahin Davoodi](https://github.com/Shahindavoodicom)
 - [pooulad(Jadi finally saw me😎:alien:)](https://github.com/pooulad) 
 - [jadijadi ❤️](https://github.com/jadijadi)
 - zohre babaei
+- [Masoomeh Nazifi :octocat:](https://github.com/Masoomeh-nazifi)
 - [Mahdi Moeini](https://github.com/M-Moeini)
 - [Daniyal :new_moon:](https://github.com/fs0c1eTy00)
+- [aminRezaei68](https://github.com/aminRezaei68)
 - [Ashkan Fareghi](https://github.com/AshkanFareghi)
 - [BazarganDev ❤️](https://github.com/BazarganDev)
 - [Hossein Etedadi](https://github.com/HosseinEetedadi)
@@ -210,6 +217,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [S. Saeid Heidari :computer:](https://github.com/thesaeid)
 - [mohamad hosein](https://github.com/mmdtoorani)
 - [Rick Sanchez](https://GitHub.com/m4tinbeigi)
+- [Aydin hamedi](https://github.com/Aydinhamedi) 😶😉
 - [DavodBeheshti:heart::sunglasses::heart:](https://github.com/davodbeheshti)
 - [Alireza Ebrahimkhani :grin:](https://github.com/AlirezaEbrahimkhani)
 - [Mohrazzr:computer::heart:](https://github.com/mohrazzr)
@@ -352,6 +360,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Sorg 🔭🛸](https://github.com/Sir-Sorg)
 - [Amir Mohsen](https://github.com/amirmohsen1384)
 - [Wih ☃️❄️](https://github.com/saeturn)
+- [Reza Dabbaghi ](https://github.com/Rdabbaghi)
 - [sepehr](https://github.com/sepehrmizani)
 - [Hamidzare71:heart_eyes: ](https://github.com/hamidzare71)
 - [EhsanMody :yum:](https://github.com/ehsanmody)
